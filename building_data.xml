@@ -5,28 +5,28 @@
 		<x>-2162</x>
 		<y>-693</y>
 		<zoom></zoom>
-		<url>http://wp.stolaf.edu/map/boememorialchapel/</url>
+		<url>https://wp.stolaf.edu/ministry/chapel/</url>
 	</building>
 	<building name='clickChristiansen'>
 		<title>Christiansen Hall Of Music</title>
 		<x>-1527</x>
 		<y>-673</y>
 		<zoom></zoom>
-		<url>http://wp.stolaf.edu/map/christiansenhall/</url>
+		<url>https://wp.stolaf.edu/music/facilities/</url>
 	</building>
 	<building name='clickDittmann'>
 		<title>Dittmann Center</title>
 		<x>-2018</x>
 		<y>-554</y>
 		<zoom></zoom>
-		<url>http://wp.stolaf.edu/map/dittmancenter/</url>
+		<url>https://wp.stolaf.edu/art/facilities/</url>
 	</building>
 	<building name='clickRegents'>
 		<title>Regents Hall</title>
 		<x>-2628</x>
 		<y>-1402</y>
 		<zoom></zoom>
-		<url>http://wp.stolaf.edu/map/regentshall/</url>
+		<url>https://wp.stolaf.edu/regentshall/</url>
 	</building>
 
 	<building name='clickHolland'>
@@ -41,259 +41,259 @@
 		<x>-4000</x>
 		<y>-1296</y>
 		<zoom></zoom>
-		<url>http://wp.stolaf.edu/map/hollandhouse/</url>
+		<url>http://map.stolaf.edu/map/accessible.php?id=294&cId=14874&mId=135410</url>
 	</building>
 	<building name='clickOldMain'>
 		<title>Old Main</title>
 		<x>-3138</x>
 		<y>-1347</y>
 		<zoom></zoom>
-		<url>http://wp.stolaf.edu/map/oldmain/</url>
+		<url>https://wp.stolaf.edu/archives/the-old-main/</url>
 	</building>
 	<building name='clickRolvaag'>
 		<title>Rolvaag Memorial Library</title>
 		<x>-2588</x>
 		<y>-827</y>
 		<zoom></zoom>
-		<url>http://wp.stolaf.edu/map/rolvaagmemoriallibrary/</url>
+		<url>https://www.stolaf.edu/library/libs/rolvaag.cfm</url>
 	</building>
 	<building name='clickSpeechTheater'>
 		<title>Theater Building</title>
 		<x>-1864</x>
 		<y>-723</y>
 		<zoom></zoom>
-		<url>http://wp.stolaf.edu/map/theaterbuilding/</url>
+		<url>https://wp.stolaf.edu/theater/</url>
 	</building>
 	<building name='clickTomson'>
 		<title>Tomson Hall</title>
 		<x>-1999</x>
 		<y>-1020</y>
 		<zoom></zoom>
-		<url>http://wp.stolaf.edu/map/tomsonhall/</url>
+		<url>https://wp.stolaf.edu/admissions/arriving-on-campus/</url>
 	</building>
 	<building name='clickLarson'>
 		<title>Larson Hall</title>
 		<x>-1686</x>
 		<y>-1020</y>
 		<zoom></zoom>
-		<url>http://wp.stolaf.edu/map/larsonhall/</url>
+		<url>https://wp.stolaf.edu/reslife/larson/</url>
 	</building>
 	<building name='clickMellby'>
 		<title>Mellby Hall</title>
 		<x>-1691</x>
 		<y>-891</y>
 		<zoom></zoom>
-		<url>http://wp.stolaf.edu/map/mellbyhall/</url>
+		<url>https://wp.stolaf.edu/reslife/mellby/</url>
 	</building>
 	<building name='clickEllingson'>
 		<title>Ellingson Hall</title>
 		<x>-2900</x>
 		<y>-484</y>
 		<zoom></zoom>
-		<url>http://wp.stolaf.edu/map/ellingsonhall/</url>
+		<url>https://wp.stolaf.edu/reslife/ellingson/</url>
 	</building>
 	<building name='clickHilleboe'>
 		<title>Hilleboe Hall</title>
 		<x>-937</x>
 		<y>-1406</y>
 		<zoom></zoom>
-		<url>http://wp.stolaf.edu/map/hilleboehall/</url>
+		<url>https://wp.stolaf.edu/reslife/hillkitt/</url>
 	</building>
 	<building name='clickKildahl'>
 		<title>Kildahl Hall</title>
 		<x>-2390</x>
 		<y>-494</y>
 		<zoom></zoom>
-		<url>http://wp.stolaf.edu/map/kildahlhall/</url>
+		<url>https://wp.stolaf.edu/reslife/kildahl/</url>
 	</building>
 	<building name='clickKittlesby'>
 		<title>Kittlesby Hall</title>
 		<x>-942</x>
 		<y>-1248</y>
 		<zoom></zoom>
-		<url>http://wp.stolaf.edu/map/kittlesbyhall/</url>
+		<url>https://wp.stolaf.edu/reslife/hillkitt/</url>
 	</building>
 	<building name='clickMohn'>
 		<title>Mohn Hall</title>
 		<x>-2692</x>
 		<y>-459</y>
 		<zoom></zoom>
-		<url>http://wp.stolaf.edu/map/mohnhall/</url>
+		<url>https://wp.stolaf.edu/reslife/mohn/</url>
 	</building>
 	<building name='clickRand'>
 		<title>Rand Hall</title>
 		<x>-2271</x>
 		<y>-360</y>
 		<zoom></zoom>
-		<url>http://wp.stolaf.edu/map/randhall/</url>
+		<url>https://wp.stolaf.edu/reslife/rand/</url>
 	</building>
 	<building name='clickThorson'>
 		<title>Thorson Hall</title>
 		<x>-3089</x>
 		<y>-559</y>
 		<zoom></zoom>
-		<url>http://wp.stolaf.edu/map/thorsonhall/</url>
+		<url>https://wp.stolaf.edu/reslife/thorson/</url>
 	</building>
 	<building name='clickYtterboe'>
 		<title>Ytterboe Hall</title>
 		<x>-1041</x>
 		<y>-658</y>
 		<zoom></zoom>
-		<url>http://wp.stolaf.edu/map/ytterboehall/</url>
+		<url>https://wp.stolaf.edu/reslife/ytterboe/</url>
 	</building>
 	<building name='clickAlumni'>
 		<title>Alumni Hall</title>
 		<x>-1844</x>
 		<y>-588</y>
 		<zoom></zoom>
-		<url>http://wp.stolaf.edu/map/alumnihall/</url>
+		<url>http://map.stolaf.edu/map/accessible.php?id=294&cId=14877&mId=135439</url>
 	</building>
 	<building name='clickHallOfMusic'>
 		<title>Hall of Music</title>
 		<x>-1844</x>
 		<y>-588</y>
 		<zoom></zoom>
-		<url>http://wp.stolaf.edu/map/hallofmusic/</url>
+		<url>https://wp.stolaf.edu/facilities/hom-hall-of-music/</url>
 	</building>
 	<building name='clickAdministration'>
 		<title>Alumni Hall</title>
 		<x>-1844</x>
 		<y>-588</y>
 		<zoom></zoom>
-		<url>http://wp.stolaf.edu/map/alumnihall/</url>
+		<url>http://map.stolaf.edu/map/accessible.php?id=294&cId=14877&mId=135439</url>
 	</building>
 	<building name='clickBuntrock'>
 		<title>Buntrock Commons</title>
 		<x>-2305</x>
 		<y>-712</y>
 		<zoom></zoom>
-		<url>http://wp.stolaf.edu/map/buntrockcommons/</url>
+		<url>https://wp.stolaf.edu/buntrock/</url>
 	</building>
 	<building name='clickMemorialTower'>
 		<title>Wind Chime Memorial</title>
 		<x>-2120</x>
 		<y>-828</y>
 		<zoom></zoom>
-		<url>http://wp.stolaf.edu/map/windchimememorial/</url>
+		<url>https://www.stolaf.edu/multimedia/streams/special/chimetower.html</url>
 	</building>
 	<building name='clickWind'>
 		<title>Wind Turbine</title>
 		<x>-500</x>
 		<y>-540</y>
 		<zoom></zoom>
-		<url>http://wp.stolaf.edu/map/windturbine/</url>
+		<url>https://wp.stolaf.edu/facilities/utilities/</url>
 	</building>
 	<building name='clickSteensland'>
 		<title>Steensland Hall</title>
 		<x>-2975</x>
 		<y>-1248</y>
 		<zoom></zoom>
-		<url>http://wp.stolaf.edu/map/steenslandhall/</url>
+		<url>https://www.stolaf.edu/files/archives/shows/steensland/index.html</url>
 	</building>
 	<building name='clickFacilities'>
 		<title>Madson Facilities Building</title>
 		<x>-2871</x>
 		<y>-811</y>
 		<zoom></zoom>
-		<url>http://wp.stolaf.edu/map/madsonfacilitiesbuilding/</url>
+		<url>http://map.stolaf.edu/map/accessible.php?id=294&cId=14877&mId=135517</url>
 	</building>
 	<building name='clickSkifter'>
 		<title>Skifter Hall</title>
 		<x>-1666</x>
 		<y>-717</y>
 		<zoom></zoom>
-		<url>http://wp.stolaf.edu/map/skifterhall/</url>
+		<url>https://wp.stolaf.edu/calendar/venue/skifter-hall/</url>
 	</building>
 	<building name='clickTomPorter'>
 		<title>Tom Porter Hall</title>
 		<x>-3019</x>
 		<y>-846</y>
 		<zoom></zoom>
-		<url>http://wp.stolaf.edu/map/tomporterhall/</url>
+		<url>http://athletics.stolaf.edu/sports/2014/9/23/tomporterhall.aspx</url>
 	</building>
 	<building name='clickManitou'>
 		<title>Manitou Field</title>
 		<x>-3371</x>
 		<y>-896</y>
 		<zoom></zoom>
-		<url>http://wp.stolaf.edu/map/manitoufield/</url>
+		<url>http://athletics.stolaf.edu/sports/2014/9/23/manitoufieldtrack.aspx</url>
 	</building>
 	<building name='clickMabelShirley'>
 		<title>Mabel Shirley Field</title>
 		<x>-1730</x>
 		<y>-246</y>
 		<zoom></zoom>
-		<url>http://wp.stolaf.edu/map/mabelshirleyfield/</url>
+		<url>http://athletics.stolaf.edu/sports/2014/9/23/mabelshirleyfield.aspx</url>
 	</building>
 	<building name='clickMarkAlmli'>
 		<title>Mark Almli Baseball Field</title>
 		<x>-2335</x>
 		<y>-251</y>
 		<zoom></zoom>
-		<url>http://wp.stolaf.edu/map/markalmlibaseballfield/</url>
+		<url>http://athletics.stolaf.edu/sports/2014/9/23/markalmlifield.aspx</url>
 	</building>
 	<building name='clickRolfMellby'>
 		<title>Rolf Mellby Soccer Field</title>
 		<x>-2058</x>
 		<y>-326</y>
 		<zoom></zoom>
-		<url>http://wp.stolaf.edu/map/rolfmellbysoccerfield/</url>
+		<url>http://athletics.stolaf.edu/sports/2014/9/23/rolfmellbyfield.aspx</url>
 	</building>
 	<building name='clickCarlson'>
 		<title>Carlson Tennis Courts</title>
 		<x>-1651</x>
 		<y>-405</y>
 		<zoom></zoom>
-		<url>http://wp.stolaf.edu/map/carlsontenniscourts/</url>
+		<url>http://athletics.stolaf.edu/index.aspx?path=mten</url>
 	</building>
 	<building name='clickSkoglund'>
 		<title>Skoglund Athletic Center</title>
 		<x>-1522</x>
 		<y>-469</y>
 		<zoom></zoom>
-		<url>http://wp.stolaf.edu/map/skoglundathleticcenter/</url>
+		<url>https://wp.stolaf.edu/recreation/facility-hours/</url>
 	</building>
 	<building name='clickTostrud'>
 		<title>Tostrud Center</title>
 		<x>-1220</x>
 		<y>-395</y>
 		<zoom></zoom>
-		<url>http://wp.stolaf.edu/map/tostrudcenter/</url>
+		<url>https://wp.stolaf.edu/recreation/tostrud-center-for-recreation-and-other-resa-facilities/</url>
 	</building>
 	<building name='clickAdeChrist'>
 		<title>Ade Christenson Complex</title>
 		<x>-3178</x>
 		<y>-868</y>
 		<zoom></zoom>
-		<url>http://wp.stolaf.edu/map/adechristensoncomplex/</url>
+		<url>http://map.stolaf.edu/map/accessible.php?id=294&cId=14882&mId=136098</url>
 	</building>
 	<building name='clickBoeHouse'>
 		<title>Boe House</title>
 		<x>-3253</x>
 		<y>-1097</y>
 		<zoom></zoom>
-		<url>http://wp.stolaf.edu/map/boehouse/</url>
+		<url>https://wp.stolaf.edu/counseling-center/</url>
 	</building>
 	<building name='clickAaker'>
 		<title>Aaker House</title>
 		<x>-2651</x>
 		<y>-2143</y>
 		<zoom></zoom>
-		<url>http://wp.stolaf.edu/map/aakerhouse/</url>
+		<url>http://map.stolaf.edu/map/accessible.php?id=294&cId=14889&mId=136432</url>
 	</building>
 	<building name='clickFelland'>
 		<title>Felland House</title>
 		<x>-3609</x>
 		<y>-1149</y>
 		<zoom></zoom>
-		<url>http://wp.stolaf.edu/map/fellandhouse/</url>
+		<url>http://map.stolaf.edu/map/accessible.php?id=294&cId=14889&mId=136435</url>
 	</building>
 	<building name='clickFinholt'>
 		<title>Finholt House</title>
 		<x>-4061</x>
 		<y>-1989</y>
 		<zoom></zoom>
-		<url>http://wp.stolaf.edu/map/finholthouse/</url>
+		<url>http://map.stolaf.edu/map/accessible.php?id=294&cId=14889&mId=136437</url>
 	</building>
 	<building name='clickFlaten'>
 		<title>Flaten House</title>

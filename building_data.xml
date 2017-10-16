@@ -40,7 +40,7 @@
 		<x>-4000</x>
 		<y>-1296</y>
 		<zoom></zoom>
-		<url>http://map.stolaf.edu/map/accessible.php?id=294&cId=14874&mId=135410</url>
+		<url>http://map.stolaf.edu/map/accessible.php?id=294&amp;cId=14874&amp;mId=135410</url>
 	</building>
 	<building name='clickOldMain'>
 		<title>Old Main</title>
@@ -145,7 +145,7 @@
 		<x>-1844</x>
 		<y>-588</y>
 		<zoom></zoom>
-		<url>http://map.stolaf.edu/map/accessible.php?id=294&cId=14877&mId=135439</url>
+		<url>http://map.stolaf.edu/map/accessible.php?id=294&amp;cId=14877&amp;mId=135439</url>
 	</building>
 	<building name='clickHallOfMusic'>
 		<title>Hall of Music</title>
@@ -159,7 +159,7 @@
 		<x>-1844</x>
 		<y>-588</y>
 		<zoom></zoom>
-		<url>http://map.stolaf.edu/map/accessible.php?id=294&cId=14877&mId=135439</url>
+		<url>http://map.stolaf.edu/map/accessible.php?id=294&amp;cId=14877&amp;mId=135439</url>
 	</building>
 	<building name='clickBuntrock'>
 		<title>Buntrock Commons</title>
@@ -194,14 +194,14 @@
 		<x>-2871</x>
 		<y>-811</y>
 		<zoom></zoom>
-		<url>http://map.stolaf.edu/map/accessible.php?id=294&cId=14877&mId=135517</url>
+		<url>http://map.stolaf.edu/map/accessible.php?id=294&amp;cId=14877&amp;mId=135517</url>
 	</building>
 	<building name='clickSkifter'>
 		<title>Skifter Hall</title>
 		<x>-1666</x>
 		<y>-717</y>
 		<zoom></zoom>
-		<url>https://wp.stolaf.edu/calendar/venue/skifter-hall/</url>
+		<url>http://map.stolaf.edu/map/accessible.php?id=294&amp;cId=14874&amp;mId=135413</url>
 	</building>
 	<building name='clickTomPorter'>
 		<title>Tom Porter Hall</title>
@@ -264,7 +264,7 @@
 		<x>-3178</x>
 		<y>-868</y>
 		<zoom></zoom>
-		<url>http://map.stolaf.edu/map/accessible.php?id=294&cId=14882&mId=136098</url>
+		<url>http://map.stolaf.edu/map/accessible.php?id=294&amp;cId=14882&amp;mId=136098</url>
 	</building>
 	<building name='clickBoeHouse'>
 		<title>Boe House</title>
@@ -278,21 +278,21 @@
 		<x>-2651</x>
 		<y>-2143</y>
 		<zoom></zoom>
-		<url>http://map.stolaf.edu/map/accessible.php?id=294&cId=14889&mId=136432</url>
+		<url>http://map.stolaf.edu/map/accessible.php?id=294&amp;cId=14889&amp;mId=136432</url>
 	</building>
 	<building name='clickFelland'>
 		<title>Felland House</title>
 		<x>-3609</x>
 		<y>-1149</y>
 		<zoom></zoom>
-		<url>http://map.stolaf.edu/map/accessible.php?id=294&cId=14889&mId=136435</url>
+		<url>http://map.stolaf.edu/map/accessible.php?id=294&amp;cId=14889&amp;mId=136435</url>
 	</building>
 	<building name='clickFinholt'>
 		<title>Finholt House</title>
 		<x>-4061</x>
 		<y>-1989</y>
 		<zoom></zoom>
-		<url>http://map.stolaf.edu/map/accessible.php?id=294&cId=14889&mId=136437</url>
+		<url>http://map.stolaf.edu/map/accessible.php?id=294&amp;cId=14889&amp;mId=136437</url>
 	</building>
 	<building name='clickFlaten'>
 		<title>Flaten House</title>
@@ -306,21 +306,21 @@
 		<x>-2500</x>
 		<y>-2124</y>
 		<zoom></zoom>
-		<url>http://map.stolaf.edu/map/accessible.php?id=294&cId=14889&mId=136436</url>
+		<url>http://map.stolaf.edu/map/accessible.php?id=294&amp;cId=14889&amp;mId=136436</url>
 	</building>
 	<building name='clickHaldorsen'>
 		<title>Haldorsen House</title>
 		<x>-4307</x>
 		<y>-959</y>
 		<zoom></zoom>
-		<url>http://map.stolaf.edu/map/accessible.php?id=294&cId=14889&mId=136439</url>
+		<url>http://map.stolaf.edu/map/accessible.php?id=294&amp;cId=14889&amp;mId=136439</url>
 	</building>
 	<building name='clickHolstad'>
 		<title>Holstad House</title>
 		<x>-4049</x>
 		<y>-1296</y>
 		<zoom></zoom>
-		<url>http://map.stolaf.edu/map/accessible.php?id=294&cId=14889&mId=136441</url>
+		<url>http://map.stolaf.edu/map/accessible.php?id=294&amp;cId=14889&amp;mId=136441</url>
 	</building>
 	<building name='clickHoyme'>
 		<title>Hoyme Hall</title>
@@ -334,21 +334,21 @@
 		<x>-3514</x>
 		<y>-1133</y>
 		<zoom></zoom>
-		<url>http://map.stolaf.edu/map/accessible.php?id=294&cId=14889&mId=136442</url>
+		<url>http://map.stolaf.edu/map/accessible.php?id=294&amp;cId=14889&amp;mId=136442</url>
 	</building>
 	<building name='clickJohnson'>
 		<title>Johnson House</title>
 		<x>-4160</x>
 		<y>-1204</y>
 		<zoom></zoom>
-		<url>http://map.stolaf.edu/map/accessible.php?id=294&cId=14889&mId=136443/</url>
+		<url>http://map.stolaf.edu/map/accessible.php?id=294&amp;cId=14889&amp;mId=136443/</url>
 	</building>
 	<building name='clickLarsonHouse'>
 		<title>Larson House</title>
 		<x>-3990</x>
 		<y>-1509</y>
 		<zoom></zoom>
-		<url>http://map.stolaf.edu/map/accessible.php?id=294&cId=14889&mId=136462</url>
+		<url>http://map.stolaf.edu/map/accessible.php?id=294&amp;cId=14889&amp;mId=136462</url>
 	</building>
 	<building name='clickLee'>
 		<title>Lee House</title>
@@ -362,21 +362,21 @@
 		<x>-4326</x>
 		<y>-1070</y>
 		<zoom></zoom>
-		<url>http://map.stolaf.edu/map/accessible.php?id=294&cId=14889&mId=136463</url>
+		<url>http://map.stolaf.edu/map/accessible.php?id=294&amp;cId=14889&amp;mId=136463</url>
 	</building>
 	<building name='clickLincolnManor'>
 		<title>Lincoln Manor</title>
 		<x>-4334</x>
 		<y>-1137</y>
 		<zoom></zoom>
-		<url>http://map.stolaf.edu/map/accessible.php?id=294&cId=14889&mId=136464</url>
+		<url>http://map.stolaf.edu/map/accessible.php?id=294&amp;cId=14889&amp;mId=136464</url>
 	</building>
 	<building name='clickMohnHouse'>
 		<title>Mohn House</title>
 		<x>-3689</x>
 		<y>-1145</y>
 		<zoom></zoom>
-		<url>http://map.stolaf.edu/map/accessible.php?id=294&cId=14889&mId=136465</url>
+		<url>http://map.stolaf.edu/map/accessible.php?id=294&amp;cId=14889&amp;mId=136465</url>
 	</building>
 	<building name='clickPres'>
 		<title>President's House</title>
@@ -390,48 +390,48 @@
 		<x>-4383</x>
 		<y>-1565</y>
 		<zoom></zoom>
-		<url>http://map.stolaf.edu/map/accessible.php?id=294&cId=14889&mId=136467</url>
+		<url>http://map.stolaf.edu/map/accessible.php?id=294&amp;cId=14889&amp;mId=136467</url>
 	</building>
 	<building name='clickSchmidt'>
 		<title>Schmidt House</title>
 		<x>-3884</x>
 		<y>-1181</y>
 		<zoom></zoom>
-		<url>http://map.stolaf.edu/map/accessible.php?id=294&cId=14889&mId=136468</url>
+		<url>http://map.stolaf.edu/map/accessible.php?id=294&amp;cId=14889&amp;mId=136468</url>
 	</building>
 	<building name='clickSovik'>
 		<title>Sovik House</title>
 		<x>-4217</x>
 		<y>-1993</y>
 		<zoom></zoom>
-		<url>http://map.stolaf.edu/map/accessible.php?id=294&cId=14889&mId=136433</url>
+		<url>http://map.stolaf.edu/map/accessible.php?id=294&amp;cId=14889&amp;mId=136433</url>
 	</building>
 	<building name='clickJohn'>
 		<title>St. John's House</title>
 		<x>-3341</x>
 		<y>-1113</y>
 		<zoom></zoom>
-		<url>http://map.stolaf.edu/map/accessible.php?id=294&cId=14889&mId=136469</url>
+		<url>http://map.stolaf.edu/map/accessible.php?id=294&amp;cId=14889&amp;mId=136469</url>
 	</building>
 	<building name='clickSwanson'>
 		<title>Swanson House</title>
 		<x>-4141</x>
 		<y>-1513</y>
 		<zoom></zoom>
-		<url>http://map.stolaf.edu/map/accessible.php?id=294&cId=14889&mId=136470</url>
+		<url>http://map.stolaf.edu/map/accessible.php?id=294&amp;cId=14889&amp;mId=136470</url>
 	</building>
 	<building name='clickThomson'>
 		<title>Thomson House</title>
 		<x>-3168</x>
 		<y>-1069</y>
 		<zoom></zoom>
-		<url>http://map.stolaf.edu/map/accessible.php?id=294&cId=14889&mId=136471</url>
+		<url>http://map.stolaf.edu/map/accessible.php?id=294&amp;cId=14889&amp;mId=136471</url>
 	</building>
 	<building name='clickYtterboeHouse'>
 		<title>Ytterboe House</title>
 		<x>-3416</x>
 		<y>-1105</y>
 		<zoom></zoom>
-		<url>http://map.stolaf.edu/map/accessible.php?id=294&cId=14889&mId=136472</url>
+		<url>http://map.stolaf.edu/map/accessible.php?id=294&amp;cId=14889&amp;mId=136472</url>
 	</building>
 </buildings>

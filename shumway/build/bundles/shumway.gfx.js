@@ -7786,11 +7786,11 @@ var Shumway;
                     var w = rectangle.w;
                     var h = rectangle.h;
                     /*
-              
+
                      0---1
                      | / |
                      3---2
-              
+
                      */
                     points[0].x = a * x + c * y + tx;
                     points[0].y = b * x + d * y + ty;
@@ -7830,11 +7830,11 @@ var Shumway;
                     var w = rectangle.w;
                     var h = rectangle.h;
                     /*
-              
+
                      0---1
                      | / |
                      3---2
-              
+
                      */
                     var x0 = a * x + c * y + tx;
                     var y0 = b * x + d * y + ty;
@@ -10776,7 +10776,7 @@ var Shumway;
                 GFX.enterTimeline('RenderableShape.render', this);
                 for (var i = 0; i < paths.length; i++) {
                     var path = paths[i];
-                    context['mozImageSmoothingEnabled'] = context.msImageSmoothingEnabled = context['imageSmoothingEnabled'] = path.smoothImage;
+                    context['imageSmoothingEnabled'] = path.smoothImage;
                     if (path.type === 0    /* Fill */) {
                         if (clipPath) {
                             clipPath.addPath(path.path, context.currentTransform);
@@ -12957,7 +12957,7 @@ var Shumway;
                     var region = mipMapLevelSurfaceRegion.region;
                     if (mipMapLevel) {
                         var context = state.target.context;
-                        context.imageSmoothingEnabled = context.mozImageSmoothingEnabled = true;
+                        context.imageSmoothingEnabled = true;
                         context.setTransform(matrix.a, matrix.b, matrix.c, matrix.d, matrix.tx, matrix.ty);
                         context.drawImage(mipMapLevelSurfaceRegion.surface.canvas, region.x, region.y, region.w, region.h, bounds.x, bounds.y, bounds.w, bounds.h);
                         return true;
@@ -13206,7 +13206,7 @@ var Shumway;
                         paintStart = performance.now();
                     }
                     this._frameInfo.shapes++;
-                    context.imageSmoothingEnabled = context.mozImageSmoothingEnabled = state.hasFlags(4096    /* ImageSmoothing */);
+                    context.imageSmoothingEnabled = state.hasFlags(4096    /* ImageSmoothing */);
                     var renderCount = node.properties['renderCount'] || 0;
                     var cacheShapesMaxSize = this._options.cacheShapesMaxSize;
                     node.properties['renderCount'] = ++renderCount;

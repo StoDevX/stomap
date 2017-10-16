@@ -36,9 +36,11 @@ function parseQueryString(qs) {
 
 function getPluginParams() {
   var params = parseQueryString(window.location.search);
+  var mapurl = document.querySelector('x-stomap-url') ? document.querySelector('x-stomap-url').attributes.href.value : null
+  console.log(mapurl)
   return {
     baseUrl: params.base || document.location.href,
-    url: params.swf,
+    url: params.swf || mapurl,
     movieParams: {},
     objectParams: {},
     compilerSettings: {
